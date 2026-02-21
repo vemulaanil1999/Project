@@ -1,5 +1,5 @@
 
-# CSDA 6010 Project 1                             Name : Anil Vemula
+# Project 1                                 
 # Voter Engagement Analytics
 
 # removing all objects (clearing platform)
@@ -282,6 +282,7 @@ barplot(
   ylab = "Accuracy",
   las = 2
 )
+
 
 
 
